@@ -14,7 +14,7 @@ Rashwanth--To do list
 
 Live Demo:
 
-    https://codesoftg.github.io/TG-Codes--To-do-list/
+     https://rashwanthashok.github.io/To-Do-list/
 ## Getting Started
 
 To explore or modify the code, follow these steps:
