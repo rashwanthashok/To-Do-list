@@ -53,14 +53,14 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-TG :
+Rashwanth :
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tg2691/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+(www.linkedin.com/in/rashwanth-ashok)
 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshokRashwanth)
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rashwanthashok/)
-
 
 Thank you for visiting the page!
