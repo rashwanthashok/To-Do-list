@@ -40,7 +40,9 @@ To explore or modify the code, follow these steps:
 
 4️⃣ Save tasks and data persistently until cleared.
 
+##Deployement status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb69c575-4e80-4170-a7a2-9783c8690b0e/deploy-status)](https://app.netlify.com/sites/jsprojects3-quiz-site/deploys)
 
 ## Contributing
 
